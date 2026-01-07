@@ -1,0 +1,9 @@
+[project]
+name = "pogoh-bike-share-growth-analysis"
+version = "0.1.0"
+description = "temp"
+authors = [
+    { name = "philbarton-sf", email = "phil.barton@sharefile.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
