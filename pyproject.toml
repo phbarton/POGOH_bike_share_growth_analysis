@@ -1,9 +1,9 @@
 [project]
 name = "pogoh-bike-share-growth-analysis"
 version = "0.1.0"
-description = "temp"
+description = "This is a Decision Support Project focused on operational analysis and growth optimization for Pittsburgh's bike share system."
 authors = [
-    { name = "philbarton-sf", email = "phil.barton@sharefile.com" }
+    { name = "Phillip Barton", email = "soylentgreen70@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = []
