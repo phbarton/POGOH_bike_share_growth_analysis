@@ -1,0 +1,61 @@
+Id,Name,Group,Total Docks,,,,,,,,,,Latitude,Longitude,,Station Group
+1,Pierce St & Summerlea St,Electric,19,,,,,,,,,,40.45650667780139,-79.93233059,,1
+2,Eliza Furnace Trail & Swineburne St,Solar,15,,,,,,,,,,40.4258,-79.9534,,2
+3,Centre Ave & Addison St,Solar,15,,,,,,,,,,40.4446,-79.9783,,2
+4,Burns White Center at 3 Crossings,Solar,15,,,,,,,,,,40.45634285497983,-79.98015557,,2
+5,Allegheny Station,Solar,19,,,,,,,,,,40.448301,-80.018007,,2
+6,10th St & Penn Ave,Solar,15,,,,,,,,,,40.4446526,-79.9960739,,2
+7,Liberty Ave & Gross St,Electric,15,,,,,,,,,,40.4595877,-79.9452035,,1
+8,Glasshouse,Solar,15,,,,,,,,,,40.4329,-80.003,,2
+9,South Side Trail & S 4th St,Solar,15,,,,,,,,,,40.431336,-79.995106,,2
+10,Zulema St & Coltart Ave,Solar,19,,,,,,,,,,40.436055,-79.956827,,2
+11,Ellsworth Ave & N Neville St,Solar,15,,,,,,,,,,40.448203,-79.947507,,2
+12,O'Hara St & University Place,Solar,23,,,,,,,,,,40.445117,-79.957118,,2
+13,S Bouquet Ave & Sennott St,Solar,23,,,,,,,,,,40.441638,-79.955764,,2
+14,Tioga St & N Homewood Ave,Solar,15,,,,,,,,,,40.454226388904914,-79.89754441,,2
+15,Ivy St & Walnut St,Solar,15,,,,,,,,,,40.451781,-79.932253,,2
+16,Penn Ave & Putnam St (Bakery Square),Solar,19,,,,,,,,,,40.4559,-79.9153,,2
+17,Taylor St & Liberty Ave,Solar,15,,,,,,,,,,40.462778,-79.950868,,2
+18,21st St & Penn Ave,Solar,19,,,,,,,,,,40.4518,-79.9833,,2
+19,42nd St & Butler St,Solar,15,,,,,,,,,,40.470221,-79.96038,,2
+20,Boulevard of the Allies & Parkview Ave,Solar,23,,,,,,,,,,40.4344,-79.9519,,2
+21,Liberty Ave & Stanwix St,Electric,15,,,,,,,,,,40.4412,-80.0048,,1
+22,Forbes Ave & Market Square,Electric,19,,,,,,,,,,40.4407732,-80.0033121,,1
+23,North Shore Trail & Fort Duquesne Bridge,Electric,23,,,,,,,,,,40.4458,-80.0091,,1
+24,Penn Ave & 33rd St,Electric,11,,,,,,,,,,40.462,-79.9683,,1
+25,Penn Ave & S Whitfield St,Electric,15,,,,,,,,,,40.4616,-79.9257,,1
+26,S 27th St & Sidney St. (Southside Works),Electric,23,,,,,,,,,,40.4279908,-79.9662964,,1
+27,W Station Square Dr & Bessemer Court,Electric,15,,,,,,,,,,40.4338,-80.0047,,1
+28,Fifth Ave & S Bouquet St,Electric,23,,,,,,,,,,40.4422,-79.9576,,1
+29,Filmore St & S Bellefield Ave,Electric,27,,,,,,,,,,40.44514530135404,-79.95108339,,1
+30,Shady Ave & Ellsworth Ave,Electric,15,,,,,,,,,,40.4591811,-79.9219961,,1
+31,First Ave & B St,Electric,15,,,,,,,,,,40.435922,-79.997551,,1
+32,Ross St & Fourth Ave,Electric,15,,,,,,,,,,40.43770062318778,-79.99648068,,1
+33,Schenley Dr & Schenley Dr Ext,Electric,19,,,,,,,,,,40.4423713,-79.9516881,,1
+34,N Dithridge St & Centre Ave,Electric,19,,,,,,,,,,40.451281,-79.952982,,1
+35,Butler St & 36th St,Electric,15,,,,,,,,,,40.46514380310981,-79.96541328,,1
+36,Penn Ave & S Pacific Ave,Electric,15,,,,,,,,,,40.4646,-79.9399,,1
+37,S Negley Ave & Centre Ave,Electric,15,,,,,,,,,,40.4573163,-79.9343309,,1
+38,Allequippa St & Darragh St,Electric,23,,,,,,,,,,40.443591,-79.965456,,1
+39,S 12th St & E Carson St,Solar,19,,,,,,,,,,40.4285997,-79.98637115,,2
+40,Penn Ave & 7th St,Solar,19,,,,,,,,,,40.44331016909104,-79.99999588,,2
+41,S 22nd St & Sidney St,Solar,19,,,,,,,,,,40.429212221210776,-79.97453456,,2
+42,Second Ave & Tecumseh St,Solar,19,,,,,,,,,,40.408857293611526,-79.94368379,,2
+43,Eliza St & Lytle St,Solar,19,,,,,,,,,,40.41348098382243,-79.94825428,,2
+44,Hamilton Ave & Fifth Ave,Solar,15,,,,,,,,,,40.45756979083109,-79.90995233,,2
+45,N Braddock Ave & Hamilton Ave,Solar,15,,,,,,,,,,40.45301036120234,-79.89120369,,2
+46,Bennett St & N Homewood Ave,Solar,15,,,,,,,,,,40.45662202406714,-79.8975032,,2
+47,17th St & Penn Ave,Solar,19,,,,,,,,,,40.44962630517585,-79.98591786,,2
+48,S Millvale Ave & Centre Ave,Solar,19,,,,,,,,,,40.45342672302884,-79.94746035,,2
+49,Technology Dr & Bates St,Solar,23,,,,,,,,,,40.43051278321097,-79.95998894,,2
+50,Atwood St & Bates St,Solar,19,,,,,,,,,,40.437986954070226,-79.95370453,,2
+51,Coltart Ave & Forbes Ave,Solar,19,,,,,,,,,,40.439011755120895,-79.96029203,,2
+52,Bedford Ave & Memory Ln,Solar,19,,,,,,,,,,40.44836081222113,-79.9782682,,2
+53,Centre Ave & Heldman St,Solar,19,,,,,,,,,,40.442841351456345,-79.98161559,,2
+54,W Ohio St & Brighton Rd,Solar,19,,,,,,,,,,40.45246745416114,-80.01387184,,2
+55,Brighton Rd & Pennsylvania Ave,Solar,19,,,,,,,,,,40.456402410384655,-80.01539265,,2
+56,Rosetta St & N Aiken Ave,Solar,15,,,,,,,,,,40.46701829506453,-79.93523215,,2
+57,52nd St & Butler St,Solar,19,,,,,,,,,,40.48028273138969,-79.95428657,,2
+58,W North Ave & Federal St,Solar,19,,,,,,,,,,40.45526766449648,-80.0071234,,2
+59,Forbes Ave at TCS Hall (CMU Campus),Solar,19,,,,,,,,,,40.444654005417995,-79.94753545,,2
+60,Wilkinsburg Park & Ride,Solar,19,,,,,,,,,,40.44690750704521,-79.88864487,,2
